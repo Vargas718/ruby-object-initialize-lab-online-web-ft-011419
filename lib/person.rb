@@ -10,7 +10,10 @@ end
 
 def name
   @name
+  puts "Beyonce"
 end
 
   
 end
+
+Person.new = beyonce
