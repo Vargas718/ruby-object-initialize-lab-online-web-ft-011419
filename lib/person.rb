@@ -10,7 +10,7 @@ end
 
 def name
   @name
-  puts "Beyonce"
+
 end
 
   
