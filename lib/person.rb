@@ -4,6 +4,6 @@ class Person
   end
 attr_accessor :name
 end
-beyonce.Person.new 
+beyonce = Person.new 
 beyonce.name = "Beyonce"
 beyonce.name
