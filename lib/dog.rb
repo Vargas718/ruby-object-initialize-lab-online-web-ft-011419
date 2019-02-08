@@ -8,7 +8,7 @@ class Dog
   end
   
   def breed 
-    puts "Mutt"
+    "Mutt"
     
   end
   
